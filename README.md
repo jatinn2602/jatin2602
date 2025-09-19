@@ -33,12 +33,11 @@
 ### 📈 GitHub Stats
 
 <p>
-    <img align="center" src="
- ![Jatin's GitHub stats]https://github-readme-stats.vercel.app/api?username=jatin2602&show_icons=true&theme=radical"
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jatinn2602&show_icons=true&theme=radical"
  />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatin2602&theme=radical" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinn2602&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
