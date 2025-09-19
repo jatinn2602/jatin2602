@@ -6,7 +6,6 @@
 <div align="center">
 
 
-[[🎥 Watch demo video](215500.mp4)](www.linkedin.com/in/jatin-raikwar-4b40b536b)
 
 
 # Hi, I’m **Jatin** 👋  
