@@ -6,7 +6,7 @@
 <div align="center">
 
 
-[![Profile Banner](https://cdn.pixabay.com/video/2024/06/06/215500_large.mp4)](www.linkedin.com/in/jatin-raikwar-4b40b536b)
+[[🎥 Watch demo video](215500.mp4)](www.linkedin.com/in/jatin-raikwar-4b40b536b)
 
 
 # Hi, I’m **Jatin** 👋  
