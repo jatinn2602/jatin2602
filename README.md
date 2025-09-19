@@ -15,10 +15,9 @@
 ---
 
 ### About Me  
-- 🔭 I’m currently working on: **(PROJECT NAME)**  
-- 🌱 I’m learning: **(SKILLS / TECHNOLOGIES YOU’RE LEARNING, ex: Cloud, DevOps, AI, etc.)**  
-- 💬 Ask me about: **(YOUR STRONG AREAS, ex: JavaScript, React/React Native, REST APIs, etc.)**  
-- ⚡ Fun fact: **(SOMETHING PERSONAL BUT PROFESSIONAL, something memorable)**  
+- 🌱 I’m learning: **React Native, Django**  
+- 💬 Ask me about: **JavaScript, React, Python**  
+- ⚡ Fun fact: **Always Ready to Contibute.**  
 
 ---
 
