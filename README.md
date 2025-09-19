@@ -5,10 +5,12 @@
 
 <div align="center">
 
-# Hi, I’m **Jatin** 👋  
-**Aspiring Full-Stack Developer • Tech Enthusiast • Lifelong Learner**
 
 [![Profile Banner](https://imgs.search.brave.com/0g5PBTm9GIjhO8K1lyC5nGES5TdyykSFe-5NmJWgvjU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y3JlYXRpdmUtdGlt/LmNvbS9ibG9nL2Nv/bnRlbnQvaW1hZ2Vz/L3NpemUvdzk2MC8y/MDIxLzEwL0dpdGh1/Yi1wcm9maWxlLTEu/anBn)](www.linkedin.com/in/jatin-raikwar-4b40b536b)
+
+
+# Hi, I’m **Jatin** 👋  
+**Aspiring Full-Stack Developer • Tech Enthusiast • Lifelong Learner**
 
 ---
 
@@ -47,7 +49,7 @@
 
 <p>
   <a href="www.linkedin.com/in/jatin-raikwar-4b40b536b/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:raijatin2006@gmail.com"><img src="https://img.shields.io/badge/Email-youremail@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:raijatin2006@gmail.com"><img src="https://img.shields.io/badge/Email-raijatin2006@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
