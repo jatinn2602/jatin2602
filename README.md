@@ -33,7 +33,8 @@
 ### 📈 GitHub Stats
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jatin2602&show_icons=true&theme=radical" alt="GitHub Stats" />
+ ![Jatin's GitHub stats] <img align="center" src="https://github-readme-stats.vercel.app/api?username=jatin2602&show_icons=true&theme=radical"
+ />
 </p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatin2602&theme=radical" alt="GitHub Streak" />
